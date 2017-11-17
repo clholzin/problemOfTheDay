@@ -2,6 +2,7 @@
 Different algorithm ideas to solve
 
 ### Links
+* [Big O lookup](http://bigocheatsheet.com/)
 * [Knuth - V3](http://www6.uniovi.es/cscene/topics/algo/cs9-03.xml.html#N715281605)
 
 ### Algorithm Descriptions
